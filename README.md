@@ -2,20 +2,24 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [Rama Zenith (wilba.tech wt65-xtx)](#rama-zenith-wilbatech-wt65-xtx)
-* [KBDfans KBD67 MkII](#kbdfans-kbd67-mkii)
 * [GMMK Pro](#gmmk-pro)
-* [RoMac](#romac)
 * [Launchpad](#launchpad)
+* [KBDfans KBD67 MkII](#kbdfans-kbd67-mkii)
+* [Meletrix Zoom65](#meletrix-zoom65)
+* [Rama Zenith (wilba.tech wt65-xtx)](#rama-zenith-wilbatech-wt65-xtx)
+* [RoMac](#romac)
 
 <!-- vim-markdown-toc -->
 
-## Rama Zenith (wilba.tech wt65-xtx)
+## GMMK Pro
+
+## Launchpad
 
 ## KBDfans KBD67 MkII
 
-## GMMK Pro
+## Meletrix Zoom65
+
+## Rama Zenith (wilba.tech wt65-xtx)
 
 ## RoMac
 
-## Launchpad
