@@ -39,7 +39,7 @@
         "KC_HOME"
       ],
       [
-        "LCTL(KC_ESCAPE)",
+        "LCTL_T(KC_ESCAPE)",
         "KC_A",
         "KC_S",
         "KC_D",
@@ -73,7 +73,7 @@
         "KC_PGDOWN"
       ],
       [
-        "LCTL(KC_ESCAPE)",
+        "LCTL_T(KC_ESCAPE)",
         "KC_LGUI",
         "KC_LALT",
         -1,
